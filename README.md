@@ -1,2 +1,2 @@
 # GOIT-JS-HW-01
-homework
+Homework # 8 "Create gallery"
